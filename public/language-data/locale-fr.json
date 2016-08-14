@@ -1,0 +1,17 @@
+{
+	    "USER_LOGIN":  "De l'ouverture de session d'utilisateur",
+	    "CONFIRM":  "Confirmation",
+	   	"JAPANESE":"Japonais",
+    	"FRENCH":"Français",
+    	"CHINESE":"Chinois",
+    	"ENGLISH":"En anglais",
+    	"GERMAN":"Allemand",
+    	"OTHER_SETTINGS":  "D'autres réglages fonctionnels",
+    	"CLEAR_TRANSACTION_FLOW":  "éliminer un flux de transaction",
+    	"SALES_SLIP_PRINTING":  "L'achat de glissement d'impression",
+    	"DOWNLOAD":  "La fonction de téléchargement",
+    	"PARAMETER_PRINTING":  "Des paramètres d'impression",
+    	"FLASH_CARD_SETTINGS":  "La carte de réglage de paramètres",
+    	"LANGUAGE_SETTINGS":  "Paramètres de langue",
+    	"LANGUAGE":  "Langue"
+}

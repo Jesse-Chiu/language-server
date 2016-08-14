@@ -1,0 +1,17 @@
+{
+	    "USER_LOGIN":  "ユーザー登録",
+	    "CONFIRM":  "確認",
+	    "JAPANESE":"日本語の",
+    	"FRENCH":"フランス語",
+    	"CHINESE":"中国語",
+    	"ENGLISH":"英文",
+    	"GERMAN":"ドイツ語",
+    	"OTHER_SETTINGS":  "その他の機能設定",
+    	"CLEAR_TRANSACTION_FLOW":  "取引の流れをクリアする",
+    	"SALES_SLIP_PRINTING":  "サインリスト印刷",
+    	"DOWNLOAD":  "ダウンロード機能",
+    	"PARAMETER_PRINTING":  "パラメータ印刷",
+    	"FLASH_CARD_SETTINGS":  "フラッシュパラメータ設定",
+    	"LANGUAGE_SETTINGS":  "言語設定",
+    	"LANGUAGE":  "言語"
+}

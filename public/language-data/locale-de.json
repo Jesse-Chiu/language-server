@@ -1,0 +1,17 @@
+{
+	    "USER_LOGIN":  "Der user login",
+	    "CONFIRM":  "Bestätigt",
+	    "JAPANESE":"Japanisch",
+    	"FRENCH":"Französisch",
+    	"CHINESE":"Chinesisch",
+    	"ENGLISH":"- englisch",
+    	"GERMAN": "Deutsch",
+    	"OTHER_SETTINGS":  "Andere funktionen sind",
+    	"CLEAR_TRANSACTION_FLOW":  "Die transaktionen",
+    	"SALES_SLIP_PRINTING":  "- gutschein - ausdrucken -",
+    	"DOWNLOAD":  "Die download - funktion",
+    	"PARAMETER_PRINTING":  "Print - parameter",
+    	"FLASH_CARD_SETTINGS":  "Flash card parameter",
+    	"LANGUAGE_SETTINGS":  "Die Sprache",
+    	"LANGUAGE":  "Sprache"
+}
